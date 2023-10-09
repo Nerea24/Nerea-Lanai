@@ -1,7 +1,10 @@
 # NEREA LANAI ANAK NEOL 
 ## [GitHub](https://github.com/Nerea24)
 
----
+I'm a bioinformatics student passionate about big data analysis. 
+
+- I’m currently still studying on various bioinformatics related subjects and ongoing projects.
+- I'm always seeking for opportunities to sharpen up my computing skills by attending computing workshops.
 
 ### Education
 
@@ -13,6 +16,10 @@
 
 - **AWS Cloud Computing **
   - *AWWS Cloud Academy Foundation, 2022*
+
+- **Microsoft Data Azure Fundamentals **
+  - *Microsoft, 2022*
+    
  
   
 ### Languages
@@ -23,6 +30,11 @@
 - HTML
 - JavaScript
 - Assembly Language
+- Matlab
+- R
+- CSS
+- PHP
+- SQL
 
 ### Interests
 
