@@ -3,10 +3,6 @@
 
 ---
 
-### Summary
-
-I'm a Year 3 students of Bioinformatics in the Faculty of Computing, UTM. My career goals is to be in Bioinformatics data field. I have experiences in using C++ , C , HTML , Java , R programming language and BLAST tools.
-
 ### Education
 
 - **Degree, Major**
